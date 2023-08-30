@@ -15,7 +15,7 @@
 
 ![Ссылка на скриншот](https://github.com/AndreyFilon/Disaster_recovery/blob/main/1.1.jpg)
 ![Ссылка на скриншот](https://github.com/AndreyFilon/Disaster_recovery/blob/main/1.2.jpg)
-![Ссылка на схему](https://github.com/AndreyFilon/Disaster_recovery/blob/main/task1.pkt)
+![Ссылка на схему task1.pkt](https://github.com/AndreyFilon/Disaster_recovery/blob/main/task1.pkt)
 
 ---
 
@@ -30,10 +30,10 @@
 
 ### Ответ:
 
-![Ссылка на bash-скрипт](https://github.com/AndreyFilon/Disaster_recovery/blob/main/nginx.sh)
+![Ссылка на bash-скрипт](https://github.com/AndreyFilon/Disaster_recovery/blob/main/nginx.sh)  
 ![Ссылка на конфигурационный файл keepalived](https://github.com/AndreyFilon/Disaster_recovery/blob/main/keepalived.conf)
 
-![Скриншоты работы nginx на главном сервере, резервном и виртуальном ip]
+`Скриншоты работы nginx на главном сервере, резервном и виртуальном ip и при отключении главного сервера`
 
 ![Ссылка на скриншот](https://github.com/AndreyFilon/Disaster_recovery/blob/main/2.%20master%20ip.jpg)
 ![Ссылка на скриншот](https://github.com/AndreyFilon/Disaster_recovery/blob/main/2.%20backup%20ip.jpg)
